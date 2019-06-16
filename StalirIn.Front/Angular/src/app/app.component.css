@@ -1,0 +1,17 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: 200px auto 200px;
+}
+
+.header{
+    background-color: pink;
+}
+
+.content{
+    background-color: brown;
+}
+
+.footer{
+    background-color: black;
+}
